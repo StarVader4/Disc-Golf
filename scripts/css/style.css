@@ -1,0 +1,29 @@
+#div_1{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(13, 102, 72);
+    width: 95%;
+    height: 12%;
+}
+#table_1{
+    width: 100%;
+    height: 100%;
+    background-color: crimson;
+}
+#td_1{
+    width: 12%;
+    background-color: brown;
+}
+#td_2{
+    width: 88%;
+    background-color: chartreuse;
+}
+#p_1{
+    font-size: 150%;
+}
+#p_2{
+    font-size: 150%;
+}
+#span_1{
+    font-size: 150%;
+}
