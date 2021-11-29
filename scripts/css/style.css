@@ -1,19 +1,33 @@
+body{
+    background-image: url('../../Images/placeholder.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
 #div_1{
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(13, 102, 72);
-    width: 95%;
-    height: 12%;
+    width: 80%;
+    height: 88%;
+    border-radius: 5px;
+    padding: 10px;
 }
 #table_1{
+    width: 100%;
+    height: 10%;
+}
+#tr_1{
     width: 100%;
     height: 100%;
 }
 #td_1{
     width: 12%;
+    height: 100%;
 }
 #td_2{
     width: 88%;
+    height: 100%;
 }
 #p_1{
     font-size: 150%;
@@ -23,4 +37,20 @@
 }
 #span_1{
     font-size: 150%;
+}
+a.span_2{
+    font-size: 150%;
+    color: red;
+}
+a.span_2:hover{
+    font-size: 150%;
+    color: crimson;
+}
+a.span_2:active{
+    font-size: 150%;
+    color: rgb(200, 5, 5);
+}
+a.span_2:visited{
+    font-size: 150%;
+    color: rgb(230, 0, 0);
 }
