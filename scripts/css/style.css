@@ -30,11 +30,21 @@ body{
     height: 100%;
 }
 #span_1{
-    font-size: 160%;
+    font-size: 150%;
 }
-#span_2{
-    font-size: 120%;
+a.span_2{
+    font-size: 150%;
+    color: red;
 }
-#span_3{
-    font-size: 120%;
+a.span_2:hover{
+    font-size: 150%;
+    color: crimson;
+}
+a.span_2:active{
+    font-size: 150%;
+    color: rgb(200, 5, 5);
+}
+a.span_2:visited{
+    font-size: 150%;
+    color: rgb(230, 0, 0);
 }

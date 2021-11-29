@@ -1,3 +1,8 @@
 body{
     background-image: url(../../Images/Never.png);
 }
+div.container{
+    border: 5px black solid;
+    border-radius: 10px;
+    background-color: rgb(128, 128, 128, 90%);
+}
