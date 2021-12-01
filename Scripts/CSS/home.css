@@ -6,3 +6,7 @@ div.container{
     border-radius: 10px;
     background-color: rgb(128, 128, 128, 90%);
 }
+img.navbar-brand{
+    height: 100px;
+    width: 100px;
+}
