@@ -1,7 +1,6 @@
 body{
     background-image: url('../../Images/placeholder.png');
     background-repeat: no-repeat;
-    background-position: center;
     background-size: 100%;
 }
 #div_1{
@@ -74,6 +73,9 @@ a.nav:visited{
 }
 #td_img2{
     background-color:chocolate;
-    height: 70%;
-    width: 50%;
+    height: 180px;
+}
+img.navbar-brand{
+    height: 100px;
+    width: 100px;
 }
