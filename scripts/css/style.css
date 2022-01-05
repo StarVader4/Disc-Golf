@@ -78,3 +78,11 @@ img.navbar-brand{
     background-color: rgb(165, 137, 103);
     height: 100px;
 }
+#div_temp1{
+    margin-left: 37px;
+    width: 250px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: 20px;
+    border-color: black;
+}
