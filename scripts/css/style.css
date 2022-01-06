@@ -2,35 +2,6 @@ body{
     background-image: url('../../Images/placeholder.png');
     background-size: 100%;
 }
-#div_1{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: rgb(13, 102, 72);
-    width: 50%;
-    height: 500px;
-    border-radius: 5px;
-    padding: 10px;
-}
-#table_1{
-    width: 100%;
-    height: 100px;
-    background-color: aquamarine;
-}
-#tr_1{
-    width: 100%;
-    height: 100px;
-}
-#td_1{
-    width: 12%;
-    height: 100px;
-}
-#td_2{
-    width: 88%;
-    height: 100%;
-}
-#span_1{
-    font-size: 150%;
-}
 a.nav{
     font-size: 150%;
     color: red;
@@ -47,42 +18,18 @@ a.nav:visited{
     font-size: 150%;
     color: rgb(230, 0, 0);
 }
-#div_2{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5px;
-    background-color: rgb(13, 102, 72);
-    width: 50%;
-    height: 510px;
-    border-radius: 5px;
-    padding: 10px;
-}
-#table_2{
+#table_about1{
     width: 100%;
     height: 120px;
-    background-color: azure;
 }
 img.navbar-brand{
     height: 100px;
     width: 100px;
 }
-#img1{
-    height: 120px;
-}
 #td_p1{
-    background-color: bisque;
     height: 100px;
     width: 100px;
 }
 #td_p2{
-    background-color: rgb(165, 137, 103);
     height: 100px;
-}
-#div_temp1{
-    margin-left: 37px;
-    width: 250px;
-    background-color: aquamarine;
-    border-radius: 5px;
-    font-size: 20px;
-    border-color: black;
 }
